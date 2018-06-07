@@ -1,0 +1,5 @@
+﻿  chapter09.c
+e:\dev\madder\열혈강의연습문제풀이\chapter09\chapter09.c(155): warning C4098: 'q2' : 'void' 함수에서 값을 반환하고 있습니다.
+e:\dev\madder\열혈강의연습문제풀이\chapter09\chapter09.c(194): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\dev\madder\열혈강의연습문제풀이\chapter09\chapter09.c(201): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chapter09.vcxproj -> E:\Dev\madder\열혈강의연습문제풀이\chapter09\Debug\chapter09.exe
